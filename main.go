@@ -3,9 +3,8 @@ package main
 import (
 	"fmt"
 
-	//proto "github.com/micro/examples/service/proto"
+	proto "github.com/gorpcserverpoc/proto"
 	micro "github.com/micro/go-micro"
-	proto "github.com/service/proto"
 	"golang.org/x/net/context"
 )
 
